@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DjStrife7/P4_V1.git"
+    "url": "git+https://github.com/DjStrife7/OpenClassrooms_Projects.git"
   },
   "author": "DjStrife7",
   "license": "ISC",
   "browserlist": "last 4 versions",
   "bugs": {
-    "url": "https://github.com/DjStrife7/P4_V1/issues"
+    "url": "https://github.com/DjStrife7/OpenClassrooms_Projects/issues"
   },
-  "homepage": "https://github.com/DjStrife7/P4_V1#readme"
-}
+  "homepage": "https://github.com/DjStrife7/OpenClassrooms_Projects#readme"
+} 
