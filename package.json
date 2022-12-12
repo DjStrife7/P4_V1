@@ -4,8 +4,7 @@
   "description": "OpenClassrooms - Exercice 4",
   "main": "index.js",
   "scripts": {
-    "sass": "sass ./sass/main.scss:./public/css/style.css -w --style expanded",
-    "prefix": "postcss ./public/css/style.css --use autoprefixer -d ./public/css/prefixed/"
+    "prefix": ""
   },
   "repository": {
     "type": "git",
