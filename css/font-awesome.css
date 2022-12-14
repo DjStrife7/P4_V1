@@ -113,15 +113,6 @@
     animation: fa-spin 1s infinite steps(8)
 }
 
-@-webkit-keyframes fa-spin {
-    0% {
-        transform: rotate(0deg)
-    }
-    100% {
-        transform: rotate(359deg)
-    }
-}
-
 @keyframes fa-spin {
     0% {
         transform: rotate(0deg)
@@ -3006,7 +2997,6 @@
     padding: 0;
     margin: -1px;
     overflow: hidden;
-    clip: rect(0, 0, 0, 0);
     border: 0
 }
 
@@ -3017,5 +3007,4 @@
     height: auto;
     margin: 0;
     overflow: visible;
-    clip: auto
 }
