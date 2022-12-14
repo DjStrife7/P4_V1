@@ -14,6 +14,8 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+    transition: all 250ms;
+    transform: scale(1.15);
 }
 
 #page-loading-blocs-notifaction {
@@ -327,6 +329,8 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    text-decoration: underline;
+    font-weight: 600;
 }
 
 .navbar-toggle {
@@ -694,6 +698,11 @@ p {
     margin: auto auto 40px auto;
 }
 
+.social>span:hover {
+    transition: all 150ms;
+    transform: scale(1.50);
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -780,6 +789,8 @@ h4 {
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #000000!important;
+    transition: all 250ms;
+    transform: scaleX(1.15);
 }
 
 .ltc-white {
