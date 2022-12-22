@@ -843,8 +843,8 @@ h4 {
 .title {
     font-family: 'Hanken Grotesk', sans-serif;
     font-weight: 400;
-    font-size: 22px;
-    max-width: 620px;
+    font-size: 24px;
+    max-width: 650px;
 }
 
 .bloc__title {
@@ -866,14 +866,17 @@ h4 {
     font-style: italic;
     font-weight: 500;
     font-size: 20px;
+    color: #1c1c1c;
 }
 
 .auteur {
     margin-top: 5px;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
+    font-weight: 300;
     font-style: normal;
     letter-spacing: 0px;
+    color: #202020;
 }
 
 @media (max-width: 1024px) {
